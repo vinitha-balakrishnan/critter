@@ -76,6 +76,7 @@
 				<configuration>
     					<testFailureIgnore>true</testFailureIgnore>
 					<useSystemClassLoader>false</useSystemClassLoader>
+					<argLine>-Xmx1024m</argLine>
   				</configuration>
 			</plugin>
 		</plugins>
