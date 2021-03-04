@@ -12,6 +12,7 @@
 	<artifactId>critter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>critter</name>
+	<packaging>war</packaging>
 	<description>Starter code for Critter Chronologer project</description>
 
 	<properties>
